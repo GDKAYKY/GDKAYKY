@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm GDKAYKY</h1>
 <h3 align="center">A passionate modder and developer from Brazil</h3>
-<p align="center"> <<img src="![bg](https://github.com/GDKAYKY/GDKAYKY/assets/108950475/d0f49e46-3f89-457f-b59a-936502d84f23)
-" />
+<p align="center"> <img src="![bg](https://github.com/GDKAYKY/GDKAYKY/assets/108950475/d0f49e46-3f89-457f-b59a-936502d84f23)" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdkayky&label=Profile%20views&color=0e75b6&style=flat" alt="gdkayky" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdkayky" alt="gdkayky" /></a> </p>
