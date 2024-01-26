@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GDKAYKY</h1>
 <h3 align="center">A passionate modder and developer from Brazil</h3>
-<p align="center"> <<iframe src="https://drive.google.com/file/d/1jN_EL_clNNqBn-x5kwQEOk_y-BDAu6eM/preview" width="640" height="480" allow="autoplay"></iframe>
+<p align="center"> <<iframe src="https://media.discordapp.net/attachments/1177409096354377768/1200485588156039228/papers.co-mk52-city-night-dark-skyline-architecture-river-3840x2160.jpg?ex=65c65a54&is=65b3e554&hm=5a9ef52b44c2e18a4e6cb00ac7208781f7a9f6447227d80da24b6dae893debed&=&format=webp&width=1025&height=350 />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdkayky&label=Profile%20views&color=0e75b6&style=flat" alt="gdkayky" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdkayky" alt="gdkayky" /></a> </p>
