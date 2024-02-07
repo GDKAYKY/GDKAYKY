@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm GDKAYKY</h1>
+
+---
+
 <h3 align="center">A passionate modder and developer from Brazil</h3>
 <p align="center"> <img src="https://github.com/GDKAYKY/GDKAYKY/assets/108950475/d0f49e46-3f89-457f-b59a-936502d84f23)" alt="gdkayky" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdkayky&label=Profile%20views&color=0e75b6&style=flat" /> </p>
