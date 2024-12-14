@@ -1,27 +1,19 @@
-<h1 align="center">Hi 👋, I'm GDKAYKY</h1>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/GUpdwQKTxN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kayky-vitor-308937319) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@15_Team) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GDKAYKY&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GDKAYKY&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GDKAYKY&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=GDKAYKY&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<h3 align="center">A passionate modder and developer from Brazil</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gdkayky&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/GDKAYKY) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdkayky" alt="gdkayky" /></a> </p>
-
-- 🔭 I’m currently working on [The-Iron-Curtain](github.com/GDKAYKY/The-Iron-Curtain)
-
-- 🤝 I’m looking for help with [The-Iron-Curtain](github.com/GDKAYKY/The-Iron-Curtain)
-
-- 📫 How to reach me **gdkayky@proton.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@GDKAYKY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gdkayky" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-![GDKAYKY's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![GDKAYKY's Stats](https://github-readme-stats.vercel.app/api?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GDKAYKY's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GDKAYKY&theme=dark&hide_border=true)
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
