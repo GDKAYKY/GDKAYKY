@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+![GDKAYKY's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![GDKAYKY's Stats](https://github-readme-stats.vercel.app/api?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![GDKAYKY's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GDKAYKY&theme=dark&hide_border=true)
-![GDKAYKY's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
