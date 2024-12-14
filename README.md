@@ -11,10 +11,6 @@
 
 - 🤝 I’m looking for help with [The-Iron-Curtain](github.com/GDKAYKY/The-Iron-Curtain)
 
-![GDKAYKY's Stats](https://github-readme-stats.vercel.app/api?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GDKAYKY's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GDKAYKY&theme=dark&hide_border=true)
-![GDKAYKY's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 - 📫 How to reach me **gdkayky@proton.me**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,8 +21,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdkayky&show_icons=true&locale=en&layout=compact" alt="gdkayky" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdkayky&show_icons=true&locale=en" alt="gdkayky" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdkayky&" alt="gdkayky" /></p>
+![GDKAYKY's Stats](https://github-readme-stats.vercel.app/api?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GDKAYKY's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GDKAYKY&theme=dark&hide_border=true)
+![GDKAYKY's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GDKAYKY&theme=dark&show_icons=true&hide_border=true&layout=compact)
