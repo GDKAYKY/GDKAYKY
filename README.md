@@ -2,4 +2,4 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=GDKAYKY&theme=gotham&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GDKAYKY&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-p3xt5opq5-echos-projects-7e78b0b7.vercel.app/api/top-langs/?username=GDKAYKY&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
