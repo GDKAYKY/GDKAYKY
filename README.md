@@ -2,5 +2,5 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=GDKAYKY&theme=gotham&hide_border=true)<br/>
 
-![](https://github-readme-stats-p3xt5opq5-echos-projects-7e78b0b7.vercel.app/api/top-langs?username=GDKAYKY&layout=compact&theme=gotham&hide_border=true)
+![](https://github-readme-stats-ten-rho-50.vercel.app/api/top-langs?username=GDKAYKY&layout=compact&theme=gotham&hide_border=true)
 
