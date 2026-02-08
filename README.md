@@ -1,10 +1,21 @@
-# I'm Kayky
+<h1 align="left">I'm Kayky, Fullstack Software Developer</h1>
 
-![GitHub Stats](https://github-readme-stats-ten-rho-50.vercel.app/api?username=GDKAYKY&theme=gotham)
+<table align="center" border="0">
+<tr>
+<td align="center">
+
+![GitHub Stats](https://github-readme-stats-ten-rho-50.vercel.app/api?username=GDKAYKY&theme=gotham&hide_border=true)
+
+</td>
+<td align="center">
 
 ![](https://github-readme-stats-ten-rho-50.vercel.app/api/top-langs?username=GDKAYKY&layout=compact&theme=gotham&hide_border=true&exclude_repo=Project-Echo)
 
-<h3 align="left">I'm Kayky, Fullstack Software Developer</h3>
+</td>
+</tr>
+</table>
+
+
 
 ###
 
@@ -50,26 +61,32 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
-###
+<details>
+<summary>
 
 <h1 align="left">My Projects</h1>
 
-###
+</summary>
 
 <h2 align="left">Llama Desktop (Rust + Svelte + Tailwind)</h2>
 
-###
-
 <h2 align="left">Ytdln-open (Javascript + React)</h2>
 
+</details>
+
 ###
+
+<details>
+<summary>
 
 <h1 align="left">My Certificaticates and Courses</h1>
 
-
-###
+</summary>
 
 <h2 align="left">Foundational C# with Microsoft</h2>
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b1a8ee3e-5310-4521-a86e-4a400c1ddf99" />
+
+<img width="640" height="480" src="https://github.com/user-attachments/assets/b1a8ee3e-5310-4521-a86e-4a400c1ddf99" />
+
+</details>
 
 ###
