@@ -4,7 +4,7 @@
 <tr>
 <td align="center">
 
-![GitHub Stats](https://github-readme-stats-ten-rho-50.vercel.app/api?username=GDKAYKY&theme=gotham&hide_border=true)
+![GitHub Stats](https://github-readme-stats-ten-rho-50.vercel.app/api?username=GDKAYKY&theme=gotham)
 
 </td>
 <td align="center">
