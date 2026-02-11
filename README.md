@@ -4,12 +4,12 @@
 <tr>
 <td align="center">
 
-![GitHub Stats](https://github-readme-stats-ten-rho-50.vercel.app/api?username=GDKAYKY&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-ten-rho-50.vercel.app/api?username=GDKAYKY&theme=default&hide_border=true)
 
 </td>
 <td align="center">
 
-![](https://github-readme-stats-ten-rho-50.vercel.app/api/top-langs?username=GDKAYKY&layout=compact&theme=gotham&hide_border=true&exclude_repo=Project-Echo)
+![](https://github-readme-stats-ten-rho-50.vercel.app/api/top-langs?username=GDKAYKY&layout=compact&theme=dark&hide_border=true&exclude_repo=Project-Echo)
 
 </td>
 </tr>
