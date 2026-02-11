@@ -9,7 +9,7 @@
 </td>
 <td align="center">
 
-![](https://github-readme-stats-ten-rho-50.vercel.app/api/top-langs?username=GDKAYKY&layout=compact&theme=dark&hide_border=true&exclude_repo=Project-Echo)
+![](https://github-readme-stats-ten-rho-50.vercel.app/api/top-langs?username=GDKAYKY&layout=normal&theme=dark&hide_border=true&exclude_repo=Project-Echo)
 
 </td>
 </tr>
