@@ -61,11 +61,8 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
-<details>
- 
-<summary>
- <h1 align="left">My Projects</h1>
-</summary>
+ <h1 align="center">My Projects</h1>
+
 
 <h2 align="left">Llama Desktop (Rust + Svelte + Tailwind)</h2>
 <table>
@@ -88,8 +85,25 @@
 </table>
 
 <h2 align="left">Ytdln-open (Nodejs + React)</h2>
-
-</details>
+<table>
+ <tr>
+  <td width="50%">
+    <a href="https://github.com/GDKAYKY/ytdln-open">
+     <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f4083479-4466-4248-b1de-fa47686b259f" />
+    </a>
+   </td>
+  <td width="50%">
+   
+   - Desktop Application for Downloading Media 
+   - Capable of downloading media from +1800 Sites
+   - Full codec and format customization
+   - Built-in media library management
+   - Integrated Aria2c support for accelerated downloads
+   - powered by yt-dlp
+   
+  </td>
+ </tr>
+</table>
 
 ###
 
