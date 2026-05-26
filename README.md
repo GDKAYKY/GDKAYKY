@@ -1,4 +1,4 @@
-<h1 align="left">I'm Kayky, Backend Software Developer</h1>
+<h1 align="left">I'm Kayky, Backend Software Engineer</h1>
  
 <table align="center" border="0">
 <tr>
@@ -62,10 +62,9 @@
 </div>
 
 <details>
+ 
 <summary>
-
-<h1 align="left">My Projects</h1>
-
+ <h1 align="left">My Projects</h1>
 </summary>
 
 <h2 align="left">Llama Desktop (Rust + Svelte + Tailwind)</h2>
