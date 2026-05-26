@@ -70,7 +70,30 @@
 
 <h2 align="left">Llama Desktop (Rust + Svelte + Tailwind)</h2>
 
-<h2 align="left">Ytdln-open (Javascript + React)</h2>
+<table>
+<tr>
+<td width="50%">
+
+<table>
+<tr>
+<td width="50%">
+ <a href="https://github.com/GDKAYKY/llama.cpp-desktop">
+  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/50a43870-e799-4db3-bc4d-74750f30a5a9" />
+ </a>
+</td>
+<td width="50%">
+
+- Desktop Application for LLM Inference using llama.cpp
+- LLM model management
+- Chat interface
+- MCPs Management and native LLM Tool Calling (stdio/HTTP)
+- Async thread-safe Rust backend for native performance
+
+</td>
+</tr>
+</table>
+
+<h2 align="left">Ytdln-open (Nodejs + React)</h2>
 
 </details>
 
