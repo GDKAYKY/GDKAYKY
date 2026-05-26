@@ -118,8 +118,8 @@
 <table>
  <tr>
   <td width="50%">
-    <a href="https://github.com/GDKAYKY/ytdln-open">
-     <img width="640" height="480" src="https://github.com/user-attachments/assets/b1a8ee3e-5310-4521-a86e-4a400c1ddf99" />
+    <a href="https://www.freecodecamp.org/certification/fcc-ed711c85-4ef5-459c-8a5e-7a6e3106d87b/foundational-c-sharp-with-microsoft">
+     <img width="997" height="653" alt="image" src="https://github.com/user-attachments/assets/8734c2c6-d683-47e7-807c-f3b9416e559a" />
     </a>
    </td>
   <td width="50%">
