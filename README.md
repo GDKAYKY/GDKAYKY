@@ -107,17 +107,49 @@
 
 ###
 
-<details>
-<summary>
 
-<h1 align="left">My Certificaticates and Courses</h1>
 
-</summary>
 
-<h2 align="left">Foundational C# with Microsoft</h2>
+<h1 align="center">My Certificaticates and Courses</h1>
 
-<img width="640" height="480" src="https://github.com/user-attachments/assets/b1a8ee3e-5310-4521-a86e-4a400c1ddf99" />
 
-</details>
+
+<h2 align="left">Microsoft · Certificate, Foundational C# with Microsoft</h2>
+<table>
+ <tr>
+  <td width="50%">
+    <a href="https://github.com/GDKAYKY/ytdln-open">
+     <img width="640" height="480" src="https://github.com/user-attachments/assets/b1a8ee3e-5310-4521-a86e-4a400c1ddf99" />
+    </a>
+   </td>
+  <td width="50%">
+   
+   - Write and debug modern C# applications using Microsoft tooling
+   - Master core C# concepts including variables, methods, loops, and conditionals
+   - Apply object-oriented programming principles and reusable code structures
+   - Build a solid foundation for .NET application development and backend engineering
+   
+  </td>
+ </tr>
+</table>
+
+<h2 align="left">Duke University · Course, Rust Fundamentals</h2>
+<table>
+ <tr>
+  <td width="50%">
+    <a href="https://coursera.org/share/4a86418bd47b9e86304422999a729c48">
+      <img width="640" height="495" alt="Coursera SZAJYL33TBJS-1" src="https://github.com/user-attachments/assets/d0280e02-5bc4-4e2c-a538-228beffc6684" />
+    </a>
+   </td>
+  <td width="50%">
+   
+   - Apply Rust's core concepts like ownership, borrowing, and lifetimes to write efficient, reliable, and safe code.
+   - Use Rust's advanced features like enums, structs, traits, and generics to build robust applications.
+   - Develop, document, test and debug Rust projects using Cargo, Rust Analyzer, and other tools in the Rust ecosystem.
+   - Organize and manage growing Rust projects using modules, libraries, and best practices for production-ready code.
+   
+  </td>
+ </tr>
+</table>
 
 ###
